@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpaperaccess.com/full/3414986.png)]
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
